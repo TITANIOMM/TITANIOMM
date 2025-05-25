@@ -16,6 +16,7 @@ Hi, I'm AmirHossein, a backend developer 👨🏻‍💻 from Iran. I'm a creati
 <br>
 
 - 📫 How to reach me: [amirhossian230@gmail.com](mailto:amirhossian230@gmail.com);
+<img src="https://github.com/TITANIOMM/TITANIOMM/blob/main/life_balance.gif?raw=true" alt="side Image" align="right" width="200" height="auto" />
 
 
 
