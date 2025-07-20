@@ -10,7 +10,7 @@
 
 <br>
 
-Hi, I'm AmirHossein, a backend developer 👨🏻‍💻 from Iran. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learning js recently.i Love to dive into algorithm and problems.
+Hi, I'm AmirHossein, a backend developer 👨🏻‍💻 from Iran. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I learning Machine Learning recently.i Love to dive into algorithm and problems.
 
 
 <br>
